@@ -10,8 +10,7 @@ IBM Watson tutorial on how to use Speech to Text and Language Translation.
 - ```npm install```
 
 ## Usage
+- setup your username and password from Bluemix, I use ```dotenv``` for this example
 - ```npm start```
 - go to ```http://localhost:3001```
-- setup your username and password, I use ```dotenv``` for this example
 - see in the terminal the results, it will also generate two .txt files as an output
-- there are 3 examples on how to achieve the same thing, the best one is example 3
